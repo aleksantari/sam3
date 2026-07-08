@@ -51,6 +51,11 @@ dev = [
     "numba",
     "python-rapidjson",
 ]
+serve = [
+    "pyzmq",
+    "msgpack",
+    "msgpack-numpy",
+]
 notebooks = [
     "matplotlib",
     "jupyter",
